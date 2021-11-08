@@ -60,6 +60,7 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 - Pandas
 - Flask
 - Tensorflow
+- Heroku
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -73,7 +74,7 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 <code><img height="40" src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg"></code>
 <code><img height="40" src="https://camo.githubusercontent.com/7a2734e80665365877c7beb46fed7ccf745760540607f9e7cb50219f011d7cb5/68747470733a2f2f73796d626f6c732e67657476656374612e636f6d2f7374656e63696c5f38302f35365f666c61736b2e336137396235613035362e6a7067"></code>
 <code><img height="40" src="https://d20vrrgs8k4bvw.cloudfront.net/images/courses/logos/logo-color-tensorflow.png"></code>
-
+<code><img height="40" src="https://camo.githubusercontent.com/273672b5578aa3ba9dd0cc912d760b57b736ac956785fa0222cce949a531734b/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6865726f6b752d3232353938392e706e67"></code>
 
 
 
