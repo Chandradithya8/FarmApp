@@ -66,32 +66,21 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 
 ## Demo
 
-- ### Home Page and Contact Page
+- ### Home Page 
 ![demo](https://media.giphy.com/media/4EXBpKiQDWomWcl85n/giphy.gif)
 
-- ### Heart Disease Prediction
+- ### Crop recommendation
 ![demo](https://media.giphy.com/media/pvjVMNp6ioqJpBnSgm/giphy.gif)
 
-- ### Diabetes Disease Prediction
+- ### Fertilizer recommendation
 ![demo](https://media.giphy.com/media/ha7TduSZte20jlq4HV/giphy.gif)
 
-- ### Liver Disease Prediction
+- ### Crop disease detection
 ![demo](https://media.giphy.com/media/gaZ1A9tMcSRuvR0akI/giphy.gif)
 
-- ### Kidney Disease Prediction
+- ### Contact page
 ![demo](https://media.giphy.com/media/XHz6uIcr3U9QJUCamY/giphy.gif)
 
-- ### Cancer Disease Prediction
-![demo](https://media.giphy.com/media/ZbLEmLkRWRmBeRK0jn/giphy.gif)
-
-- ### Covid Disease Prediction
-![demo](https://media.giphy.com/media/kunfjysIzOQTX2upJj/giphy.gif)
-
-- ### Django backend authentication
-![demo](https://media.giphy.com/media/RbDRZZuXmRg3gyZBuB/giphy.gif)
-
-- ### Data stored in the postgres sql database
-![demo](https://media.giphy.com/media/7ZLJtpXuqijDKD2laB/giphy.gif)
 
 ## DEPLOYMENT 🚀
 
