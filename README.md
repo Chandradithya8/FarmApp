@@ -3,7 +3,7 @@
 
 FARMAPP is a simple Machine Learning and Deep Learning based application for detecting various diseases. The application is capable of detecting diseases like heart disease, diabetes, lungs disease, kidney disease, breast cancer, and covid disease(using chest xray 💪). We use state-of-the-art machine learning and deep learning technologies to make the detection pretty accurate.
 <br>
-<img src="https://unsplash.com/photos/li9JfUHQfOY" width="1100" height="420" />
+<img src="https://images.unsplash.com/photo-1499529112087-3cb3b73cec95?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZmFybWluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="1100" height="420" />
 
 ## DISCLAIMER ⚠️
 
