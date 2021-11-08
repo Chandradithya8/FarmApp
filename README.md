@@ -148,4 +148,4 @@ This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com
 
 ## Contact 📞
 
-#### If you have any doubt or want to contribute feel free to hit me up on [LinkedIn](https://www.linkedin.com/in/chandradithya-k-g-2123591a6/)
+ If you have any doubt or want to contribute feel free to hit me up on [LinkedIn](https://www.linkedin.com/in/chandradithya-k-g-2123591a6/)
