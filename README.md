@@ -95,9 +95,9 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 
 ## DEPLOYMENT 🚀
 
-#### This website is deployed at [Heroku](https://www.heroku.com/)
-#### You can access it [here](https://farmapp-chand.herokuapp.com/home)
-#### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
+ This website is deployed at [Heroku](https://www.heroku.com/)
+ You can access it [here](https://farmapp-chand.herokuapp.com/home)
+ # Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 
 ## RUN LOCALLY
 
