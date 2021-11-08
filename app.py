@@ -13,7 +13,7 @@ app = Flask(__name__)
 @app.route('/')
 @app.route('/home')
 def home():
-    return render_template('home.html')
+    return render_template('Home.html')
 
 
 @app.route('/crop_recommend')
