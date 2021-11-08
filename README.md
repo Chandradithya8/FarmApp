@@ -7,46 +7,32 @@ FARMAPP is a simple Machine Learning and Deep Learning based application for det
 
 ## DISCLAIMER ⚠️
 
-This is a POC(Proof of concept) kind-of project. The data used here comes up with no guarantee from the creator. So, don't use it for making real time disease prediction. If you do so, the creator is not responsible for anything. However, this project presents the idea that how we can use ML/DL into disease prediction if developed at large scale and with authentic and verified data.
+This is a POC(Proof of concept) kind-of project. The data used here comes up with no guarantee from the creator. So, don't use it for making real time farming. If you do so, the creator is not responsible for anything. However, this project presents the idea that how we can use ML/DL into farming if developed at large scale and with authentic and verified data.
 ## DATASET DETAILS  📊
 
-Most of the datasets are uploaded in the "Dataset" folder except Covid Disease dataset(15gb).
+Most of the datasets are uploaded in the "Dataset" folder except Crop Disease Detection dataset(1gb).
 
-Heart Disease Dataset - Dataset/heart.csv
+Crop recommendation dataset - Dataset/Crop_recommendation.csv
 
-Diabetes Dataset - Dataset/diabetes.csv
+Fertilizer recommendation dataset - Dataset/Fertilizer prediction.csv
 
-Kidney Disease Dataset - Dataset/kidney_disease.csv
-
-Liver Disease Dataset - Dataset/indian_liver_patient.csv
-
-Cancer Disease Dataset - Dataset/breast_disease.csv
-
-Covid Disease Dataset - https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+Crop Disease detection dataset - https://www.kaggle.com/vipoooool/new-plant-diseases-dataset
 
 
 ## NOTEBOOK DETAILS 📓
 
 All the notebooks are uploaded in the "Notebooks" folder.
 
-Heart Disease  - Notebooks/heart_disease_prediction.ipynb
+Crop recommendation  - Notebooks/crop_recommendation.ipynb
 
-Diabetes Disease - Notebooks/Diabetes_prediction.ipynb
+Fertilizer recommendation - Notebooks/fertilizer_recommendation.ipynb
 
-Kidney Disease  - Notebooks/kidney_disease_prediction.ipynb
-
-Liver Disease  - Notebooks/Liver_disease_prediction.ipynb
-
-Cancer Disease  - Notebooks/cancer_disease_prediction.ipynb
-
-Covid Disease  - Notebooks/coivd_disease_prediction.ipynb
+Covid disease detection  - Notebooks/crop-disease-prediction.ipynb
 
 You can view all the saved models (pickle files) in the "Saved_models" folder.
   
 
 
-
-    
 
 ## BUILT WITH 🛠️
 
@@ -161,11 +147,11 @@ Then you will be able to use the application on your localhost.
 
 ## CONTRIBUTE 💻
 You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.
-Please read [CONTRIBUTING.md](https://github.com/Chandradithya8/HealthApp/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Chandradithya8/FarmApp/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## LICENSE 📝
-This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com/Chandradithya8/HealthApp/blob/master/LICENSE).
+This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com/Chandradithya8/FarmApp/blob/master/LICENSE).
 
 ## Contact 📞
 
