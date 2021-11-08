@@ -1,7 +1,7 @@
 
 # FARMAPP 🌴
 
-FARMAPP is a simple Machine Learning and Deep Learning based application for detecting various diseases. The application is capable of detecting diseases like heart disease, diabetes, lungs disease, kidney disease, breast cancer, and covid disease(using chest xray 💪). We use state-of-the-art machine learning and deep learning technologies to make the detection pretty accurate.
+FARMAPP is a simple Machine Learning and Deep Learning based application that helps farmers to improve the farming strategy. The application is capable of predicting, the best crop to be cultivated for that land, best fertilizer to be used for that crop and detecting various diseases of the crop. We use state-of-the-art machine learning and deep learning technologies to make the prediction/detection pretty accurate.
 <br>
 <img src="https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmFybWluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="1000" height="420" />
 
@@ -93,6 +93,12 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 - ### Data stored in the postgres sql database
 ![demo](https://media.giphy.com/media/7ZLJtpXuqijDKD2laB/giphy.gif)
 
+## DEPLOYMENT 🚀
+
+#### This website is deployed at [Heroku](https://www.heroku.com/)
+#### You can access it [here](https://farmapp-chand.herokuapp.com/home)
+#### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
+
 ## RUN LOCALLY
 
 Clone the project
@@ -140,8 +146,7 @@ Then you will be able to use the application on your localhost.
 
 ## FUTURE PLANS 📈
 
-- In this project I have added around 6 disease detection models. In the future I will try to add even more disease detection models for diseases like malaria, pneumonia, etc.
-
+- In the future I will try to add even more strategies for improving farming.
 
 
 
