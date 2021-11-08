@@ -108,26 +108,27 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 Clone the project
 
 ```bash
-   git clone https://github.com/Chandradithya8/HealthApp.git
+   git clone https://github.com/Chandradithya8/FarmApp.git
 ```
 Extract all the files. 
 
 Open command prompt and go to the extracted files directory
 
-Go to "HealthApp-master" directory
+Go to "FarmApp-master" directory
 
 ```bash
-   cd HealthApp-master
+   cd FarmApp-master
 ```
 When you type "dir" in the command prompt you should see the following files
 
 - Dataset
 - Notebooks
 - Saved_models
-- healthapp
+- app.py
 - CONTRIBUTING.md
 - LICENSE
 - requirements.txt
+- etc
  
 
 Install dependencies
@@ -136,15 +137,9 @@ Install dependencies
    pip install -r requirements.txt
 ```
 
-Go to the "healthapp" folder
-
-```bash
-   cd healthapp
-```
-
 Start the server
 ```bash
-   python manage.py runserver
+   python app.py
 ```
 Then you will be able to use the application on your localhost.
 
