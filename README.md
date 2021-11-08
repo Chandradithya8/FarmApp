@@ -134,8 +134,7 @@ Then you will be able to use the application on your localhost.
 
 ## FUTURE PLANS 📈
 
-- In the future I will try to add even more strategies to improve farming.
-
+- In this application I have included two machine learning and one deep learning model. In the future I will try to add even more models.
 
 
 ## CONTRIBUTE 💻
