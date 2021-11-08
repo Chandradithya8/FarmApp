@@ -67,19 +67,19 @@ You can view all the saved models (pickle files) in the "Saved_models" folder.
 ## Demo
 
 - ### Home Page 
-![demo](https://media.giphy.com/media/4EXBpKiQDWomWcl85n/giphy.gif)
+![demo](https://media.giphy.com/media/E2gXoMWeAf7pSeGhTt/giphy.gif)
 
-- ### Crop recommendation
-![demo](https://media.giphy.com/media/pvjVMNp6ioqJpBnSgm/giphy.gif)
+- ### Crop Recommendation
+![demo](https://media.giphy.com/media/Epl4Str00TBXmrfBDt/giphy.gif)
 
-- ### Fertilizer recommendation
-![demo](https://media.giphy.com/media/ha7TduSZte20jlq4HV/giphy.gif)
+- ### Fertilizer Recommendation
+![demo](https://media.giphy.com/media/zaA162wBVQ9SAqC3cH/giphy.gif)
 
 - ### Crop disease detection
-![demo](https://media.giphy.com/media/gaZ1A9tMcSRuvR0akI/giphy.gif)
+![demo](https://media.giphy.com/media/OHm2GHQJTxPSYsNOPC/giphy.gif)
 
 - ### Contact page
-![demo](https://media.giphy.com/media/XHz6uIcr3U9QJUCamY/giphy.gif)
+![demo](https://media.giphy.com/media/3BstRiqVhZoUMRs4pO/giphy.gif)
 
 
 ## DEPLOYMENT 🚀
