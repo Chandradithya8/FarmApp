@@ -27,7 +27,7 @@ Crop recommendation  - Notebooks/crop_recommendation.ipynb
 
 Fertilizer recommendation - Notebooks/fertilizer_recommendation.ipynb
 
-Covid disease detection  - Notebooks/crop-disease-prediction.ipynb
+Crop disease detection  - Notebooks/crop-disease-prediction.ipynb
 
 You can view all the saved models (pickle files) in the "Saved_models" folder.
   
